@@ -8,14 +8,14 @@ package Exception;
 import java.io.*;
 
 //Main class
-class Test {
+class GFG {
 
  // Main driver method
  public static void main(String args[]) {
 
      // Reading content from file by passing local directory path
      // where file should exists
-     FileInputStream Test = new FileInputStream("/Desktop/GFG.txt");
+     FileInputStream GFG = new FileInputStream("/Desktop/GFG.txt");
  }
 }
 

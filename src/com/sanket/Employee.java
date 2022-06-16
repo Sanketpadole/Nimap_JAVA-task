@@ -9,4 +9,9 @@ public class Employee {
 	return baseSalary + (hourlyRate * extraHour);
 
 }
+
+	public char[] getEmpid() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
