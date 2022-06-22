@@ -14,3 +14,11 @@ public class Employee {
 	}
 
 }
+
+
+
+
+
+
+
+//this data can be used in this class only

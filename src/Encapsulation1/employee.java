@@ -1,7 +1,7 @@
 package Encapsulation1;
 
 public class employee {
-	String empname;
+	private String empname;
 
 	public String getEmpname() {
 		return empname;

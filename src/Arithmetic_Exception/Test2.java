@@ -20,3 +20,8 @@ public class Test2 {
 	System.out.println("you cannot divide by zero");
 }
 }
+
+
+//
+//
+//this time this program catching an exception and showing output.    this means this program is not terminated abnormally

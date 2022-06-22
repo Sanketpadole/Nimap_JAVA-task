@@ -21,3 +21,9 @@ public class Test {
 //		x.show();
 //	}
 //}
+
+
+
+
+
+//first class method is overriding in second class that is why it is called method overriding

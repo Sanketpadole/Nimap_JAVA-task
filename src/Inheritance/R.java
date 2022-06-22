@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class R extends P {
+public class R extends P{
 	void showR() {
 		System.out.println("dvnbivefv");
 	}
@@ -9,6 +9,7 @@ public class R extends P {
 		ob1.showR();
 		R ob2=new R();
 		ob2.showP();
+		
 	
 		
 	}
