@@ -43,4 +43,4 @@ Reference type holds the complex objects
 
 
 
-now we are assigning s2=s1, the value of s1 i.e 300 will store in s2.....so adress of "hello" is inside s1 and s2.....hence s1 and s2 are different variables but reffering a same value that is "hello"
+now we are assigning s2=s1, the value of s1 i.e 600 will store in s2.....so adress of "hello" is inside s1 and s2.....hence s1 and s2 are different variables but reffering a same value that is "hello"
