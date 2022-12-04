@@ -21,6 +21,7 @@ public class List1 {
 
 
 
+
 //public class List1 {
 //	public static void main(String[] args) {
 //		collection<Integer>values=new ArrayList<Integer>();

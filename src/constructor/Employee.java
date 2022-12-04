@@ -13,5 +13,49 @@ public class Employee {
 		Employee e2=new Employee("abc",102);
 		System.out.println(e1.name+ " "+e1.emp_id);
 	}
-
 }
+	
+	
+	
+	
+//	public class manager{
+//		String name;
+//		int id;
+//		manager(String name,int id){
+//			this.name=name;
+//			this.id=id;
+//		}
+//		
+//		public static void main(String[] args) {
+//			manager m=new manager("deepak",111);
+//			
+//			System.out.println(m.id+" "+m.name);
+//		}
+//	}
+
+
+
+
+
+
+
+
+
+
+
+
+//public class employee{
+//	String name;
+//	int id;
+//	employee(String name,int id){
+//		this.name=name;
+//		this.id=id;
+//	}
+//	public static void main(String[] args) {
+//		employee e=new employee("deepak",123);
+//	}
+//}
+		
+	
+
+
